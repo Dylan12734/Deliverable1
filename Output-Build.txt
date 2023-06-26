@@ -1,6 +1,0 @@
-﻿Build started...
-1>------ Build started: Project: Deliverable1, Configuration: Debug Any CPU ------
-1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
-1>Deliverable1 -> C:\Users\yourm\source\repos\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.dll
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-========== Build started at 11:17 PM and took 00.150 seconds ==========
